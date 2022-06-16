@@ -1,6 +1,6 @@
 public class Droid {
-int batteryLevel;
-String name;
+  int batteryLevel;
+  String name;
 //droid constructor
   public Droid(String droidName) {
     name = droidName;
